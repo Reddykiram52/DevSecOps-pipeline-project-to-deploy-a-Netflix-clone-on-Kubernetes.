@@ -1,0 +1,1 @@
+# DevSecOps-pipeline-project-to-deploy-a-Netflix-clone-on-Kubernetes.
